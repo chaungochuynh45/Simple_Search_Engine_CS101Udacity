@@ -2,7 +2,7 @@ import urllib
 max_limit=5
 
 '''
-This function is just to return the webpage contents
+This function returns the webpage contents
 '''
 def get_page(url):
 	try:
