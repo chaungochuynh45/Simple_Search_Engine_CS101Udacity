@@ -1,5 +1,3 @@
-#!/usr/bin/python
-#Author : dileep98490@gmail.com
 import urllib
 max_limit=5
 
